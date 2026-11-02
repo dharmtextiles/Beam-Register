@@ -1,0 +1,24 @@
+{
+ "name": "Beam Register",
+ "short_name": "Beam Register",
+ "description": "Textile warping beam register",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#f4f3ef",
+ "theme_color": "#0b6b57",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
